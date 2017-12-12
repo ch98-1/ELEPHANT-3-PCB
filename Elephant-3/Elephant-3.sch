@@ -1,0 +1,290 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L mc34151p:mc34151 U?
+U 1 1 5A2FBF8B
+P 6600 3950
+F 0 "U?" H 6600 4437 60  0000 C CNN
+F 1 "mc34151" H 6600 4331 60  0000 C CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm" H 6600 3500 60  0001 C CNN
+F 3 "" H 6550 3750 60  0001 C CNN
+	1    6600 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L atmel:AVR-ISP-6 CON?
+U 1 1 5A2FC295
+P 4750 2200
+F 0 "CON?" V 4383 2250 50  0000 C CNN
+F 1 "AVR-ISP-6" V 4474 2250 50  0000 C CNN
+F 2 "" V 4500 2250 50  0001 C CNN
+F 3 "" H 3475 1650 50  0001 C CNN
+	1    4750 2200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3400 4300 4650 4300
+Wire Wire Line
+	4650 4300 4650 2600
+Wire Wire Line
+	3400 3150 4850 3150
+Wire Wire Line
+	4850 3150 4850 2600
+Wire Wire Line
+	3400 3250 4950 3250
+Wire Wire Line
+	4950 3250 4950 2600
+Wire Wire Line
+	3400 3350 4750 3350
+Wire Wire Line
+	4750 3350 4750 2600
+$Comp
+L power:GND #PWR?
+U 1 1 5A2FC542
+P 950 5150
+F 0 "#PWR?" H 950 4900 50  0001 C CNN
+F 1 "GND" H 955 4977 50  0000 C CNN
+F 2 "" H 950 5150 50  0001 C CNN
+F 3 "" H 950 5150 50  0001 C CNN
+	1    950  5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 5050 950  5050
+Wire Wire Line
+	950  5050 950  5150
+Wire Wire Line
+	1500 5150 950  5150
+Connection ~ 950  5150
+$Comp
+L power:GND #PWR?
+U 1 1 5A2FC82F
+P 5700 3750
+F 0 "#PWR?" H 5700 3500 50  0001 C CNN
+F 1 "GND" H 5705 3577 50  0000 C CNN
+F 2 "" H 5700 3750 50  0001 C CNN
+F 3 "" H 5700 3750 50  0001 C CNN
+	1    5700 3750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 3750 5700 3750
+$Comp
+L power:GND #PWR?
+U 1 1 5A2FC96D
+P 4000 2100
+F 0 "#PWR?" H 4000 1850 50  0001 C CNN
+F 1 "GND" H 4005 1927 50  0000 C CNN
+F 2 "" H 4000 2100 50  0001 C CNN
+F 3 "" H 4000 2100 50  0001 C CNN
+	1    4000 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4350 2100 4000 2100
+$Comp
+L power:+5V #PWR?
+U 1 1 5A2FCABC
+P 5700 2100
+F 0 "#PWR?" H 5700 1950 50  0001 C CNN
+F 1 "+5V" H 5715 2273 50  0000 C CNN
+F 2 "" H 5700 2100 50  0001 C CNN
+F 3 "" H 5700 2100 50  0001 C CNN
+	1    5700 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5250 2100 5700 2100
+$Comp
+L power:+5V #PWR?
+U 1 1 5A2FCC6E
+P 700 2850
+F 0 "#PWR?" H 700 2700 50  0001 C CNN
+F 1 "+5V" H 715 3023 50  0000 C CNN
+F 2 "" H 700 2850 50  0001 C CNN
+F 3 "" H 700 2850 50  0001 C CNN
+	1    700  2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L atmel:ATMEGA168A-PU U?
+U 1 1 5A2FD10A
+P 2400 3950
+F 0 "U?" H 2450 5317 50  0000 C CNN
+F 1 "ATMEGA168A-PU" H 2450 5226 50  0000 C CNN
+F 2 "DIL28" H 2400 3950 50  0001 C CIN
+F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2400 3950 50  0001 C CNN
+	1    2400 3950
+	1    0    0    -1  
+$EndComp
+Text GLabel 7450 3750 2    60   Input ~ 0
++18V
+Wire Wire Line
+	7050 3750 7450 3750
+$Comp
+L device:C C?
+U 1 1 5A2FD4FF
+P 1000 3000
+F 0 "C?" H 1115 3046 50  0000 L CNN
+F 1 "100nF" H 1115 2955 50  0000 L CNN
+F 2 "" H 1038 2850 50  0001 C CNN
+F 3 "" H 1000 3000 50  0001 C CNN
+	1    1000 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5A2FD9DD
+P 1000 3150
+F 0 "#PWR?" H 1000 2900 50  0001 C CNN
+F 1 "GND" H 1005 2977 50  0000 C CNN
+F 2 "" H 1000 3150 50  0001 C CNN
+F 3 "" H 1000 3150 50  0001 C CNN
+	1    1000 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 2850 1000 2850
+Wire Wire Line
+	1000 2850 700  2850
+Connection ~ 1000 2850
+$Comp
+L Connector:Conn_01x02 J?
+U 1 1 5A2FDE72
+P 750 900
+F 0 "J?" H 670 575 50  0000 C CNN
+F 1 "7-25V" H 670 666 50  0000 C CNN
+F 2 "" H 750 900 50  0001 C CNN
+F 3 "~" H 750 900 50  0001 C CNN
+	1    750  900 
+	-1   0    0    1   
+$EndComp
+$Comp
+L regul:LM7805_TO220 U?
+U 1 1 5A2FE293
+P 1850 800
+F 0 "U?" H 1850 1042 50  0000 C CNN
+F 1 "LM7805_TO220" H 1850 951 50  0000 C CNN
+F 2 "TO_SOT_Packages_THT:TO-220-3_Vertical" H 1850 1025 50  0001 C CIN
+F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 1850 750 50  0001 C CNN
+	1    1850 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L device:CP C?
+U 1 1 5A2FE6BB
+P 2500 1150
+F 0 "C?" H 2618 1196 50  0000 L CNN
+F 1 "10uF" H 2618 1105 50  0000 L CNN
+F 2 "" H 2538 1000 50  0001 C CNN
+F 3 "" H 2500 1150 50  0001 C CNN
+	1    2500 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	950  900  950  1500
+Wire Wire Line
+	1850 1500 2500 1500
+Connection ~ 1850 1500
+$Comp
+L device:CP C?
+U 1 1 5A3029B1
+P 1250 1150
+F 0 "C?" H 1368 1196 50  0000 L CNN
+F 1 "100uF" H 1368 1105 50  0000 L CNN
+F 2 "" H 1288 1000 50  0001 C CNN
+F 3 "" H 1250 1150 50  0001 C CNN
+	1    1250 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5A302A72
+P 1850 1500
+F 0 "#PWR?" H 1850 1250 50  0001 C CNN
+F 1 "GND" H 1855 1327 50  0000 C CNN
+F 2 "" H 1850 1500 50  0001 C CNN
+F 3 "" H 1850 1500 50  0001 C CNN
+	1    1850 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 5A302ACA
+P 3000 800
+F 0 "#PWR?" H 3000 650 50  0001 C CNN
+F 1 "+5V" H 3015 973 50  0000 C CNN
+F 2 "" H 3000 800 50  0001 C CNN
+F 3 "" H 3000 800 50  0001 C CNN
+	1    3000 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L device:LED D?
+U 1 1 5A3033C6
+P 3000 1350
+F 0 "D?" V 3038 1233 50  0000 R CNN
+F 1 "LED" V 2947 1233 50  0000 R CNN
+F 2 "" H 3000 1350 50  0001 C CNN
+F 3 "~" H 3000 1350 50  0001 C CNN
+	1    3000 1350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	950  1500 1250 1500
+Wire Wire Line
+	1250 1300 1250 1500
+Connection ~ 1250 1500
+Wire Wire Line
+	1250 1500 1850 1500
+Wire Wire Line
+	2500 1300 2500 1500
+Wire Wire Line
+	1850 1100 1850 1500
+Wire Wire Line
+	2500 1500 3000 1500
+Connection ~ 2500 1500
+$Comp
+L device:R R?
+U 1 1 5A306D12
+P 3000 1000
+F 0 "R?" H 3070 1046 50  0000 L CNN
+F 1 "150" H 3070 955 50  0000 L CNN
+F 2 "" V 2930 1000 50  0001 C CNN
+F 3 "" H 3000 1000 50  0001 C CNN
+	1    3000 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3000 800  3000 850 
+Connection ~ 3000 800 
+Wire Wire Line
+	3000 1200 3000 1150
+Wire Wire Line
+	2150 800  2500 800 
+Wire Wire Line
+	950  800  1250 800 
+Wire Wire Line
+	2500 1000 2500 800 
+Connection ~ 2500 800 
+Wire Wire Line
+	2500 800  3000 800 
+Wire Wire Line
+	1250 1000 1250 800 
+Connection ~ 1250 800 
+Wire Wire Line
+	1250 800  1550 800 
+$EndSCHEMATC

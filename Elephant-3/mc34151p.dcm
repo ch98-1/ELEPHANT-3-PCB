@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP mc34151
+D High Speed Dual MOSFET Driver
+K MOSFET, Driver
+$ENDCMP
+#
+#End Doc Library
