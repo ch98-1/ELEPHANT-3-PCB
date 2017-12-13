@@ -5,4 +5,9 @@ D High Speed Dual MOSFET Driver
 K MOSFET, Driver
 $ENDCMP
 #
+$CMP mc34151
+D High Speed Dual MOSFET Driver
+K MOSFET, Driver
+$ENDCMP
+#
 #End Doc Library
