@@ -15,11 +15,11 @@ Through Hole Version:
 
 4x 680ohm Resistor: https://www.digikey.com/product-detail/en/vishay-bc-components/MBA02040C6800FCT00/BC3284CT-ND/6138787
 
-1x LED: https://www.digikey.com/product-detail/en/cree-inc/C503B-RAN-CZ0C0AA1/C503B-RAN-CZ0C0AA1-ND/6561758
+1x LED: https://www.digikey.com/product-detail/en/broadcom-limited/HLMP-1700-B0002/516-1791-1-ND/1966497
 
 1x 100uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM101B/P10397TB-ND/268482
 
-2x 10uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM100I/P10425TB-ND/268510
+1x 10uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM100I/P10425TB-ND/268510
 
 2x 4.7uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/nichicon/UPS1H4R7MDD1TD/493-11322-1-ND/4319740
 
