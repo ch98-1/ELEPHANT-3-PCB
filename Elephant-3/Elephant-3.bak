@@ -103,7 +103,7 @@ U 1 1 5A2FD10A
 P 2400 3950
 F 0 "U2" H 2450 5317 50  0000 C CNN
 F 1 "ATMEGA328P-PU" H 2450 5226 50  0000 C CNN
-F 2 "" H 2400 3950 50  0001 C CIN
+F 2 "Housings_DIP:DIP-28_W7.62mm_LongPads" H 2400 3950 50  0001 C CIN
 F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2400 3950 50  0001 C CNN
 	1    2400 3950
 	1    0    0    -1  
@@ -554,7 +554,7 @@ U 1 1 5A35AE22
 P 7550 2000
 F 0 "J7" V 7516 1812 50  0000 R CNN
 F 1 "300V" V 7425 1812 50  0000 R CNN
-F 2 "" H 7550 2000 50  0001 C CNN
+F 2 "Wire_Pads:SolderWirePad_2x_2mmDrill" H 7550 2000 50  0001 C CNN
 F 3 "~" H 7550 2000 50  0001 C CNN
 	1    7550 2000
 	0    -1   -1   0   
@@ -565,7 +565,7 @@ U 1 1 5A35AEC4
 P 8500 2000
 F 0 "J8" V 8466 1812 50  0000 R CNN
 F 1 "1200V" V 8375 1812 50  0000 R CNN
-F 2 "" H 8500 2000 50  0001 C CNN
+F 2 "Wire_Pads:SolderWirePad_2x_2mmDrill" H 8500 2000 50  0001 C CNN
 F 3 "~" H 8500 2000 50  0001 C CNN
 	1    8500 2000
 	0    -1   -1   0   
@@ -576,7 +576,7 @@ U 1 1 5A35AF0D
 P 9350 2000
 F 0 "J9" V 9316 1812 50  0000 R CNN
 F 1 "Ignitor" V 9225 1812 50  0000 R CNN
-F 2 "" H 9350 2000 50  0001 C CNN
+F 2 "Wire_Pads:SolderWirePad_2x_2mmDrill" H 9350 2000 50  0001 C CNN
 F 3 "~" H 9350 2000 50  0001 C CNN
 	1    9350 2000
 	0    -1   -1   0   
@@ -587,7 +587,7 @@ U 1 1 5A35AF57
 P 10550 2000
 F 0 "J12" V 10516 1812 50  0000 R CNN
 F 1 "Main" V 10425 1812 50  0000 R CNN
-F 2 "" H 10550 2000 50  0001 C CNN
+F 2 "Wire_Pads:SolderWirePad_2x_2mmDrill" H 10550 2000 50  0001 C CNN
 F 3 "~" H 10550 2000 50  0001 C CNN
 	1    10550 2000
 	0    -1   -1   0   
@@ -687,7 +687,7 @@ U 1 1 5A30F313
 P 5650 5300
 F 0 "U4" H 5650 5787 60  0000 C CNN
 F 1 "MC34151" H 5650 5681 60  0000 C CNN
-F 2 "Housings_DIP:DIP-8_W7.62mm" H 5650 4850 60  0001 C CNN
+F 2 "Housings_DIP:DIP-8_W7.62mm_LongPads" H 5650 4850 60  0001 C CNN
 F 3 "" H 5600 5100 60  0001 C CNN
 	1    5650 5300
 	1    0    0    -1  
@@ -1612,7 +1612,7 @@ U 1 1 5A4ED983
 P 8600 4800
 F 0 "U5" H 8600 5117 50  0000 C CNN
 F 1 "4050" H 8600 5026 50  0000 C CNN
-F 2 "Housings_DIP:SMDIP-14_W7.62mm" H 8600 4800 50  0001 C CNN
+F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 8600 4800 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4050bms.pdf" H 8600 4800 50  0001 C CNN
 	1    8600 4800
 	1    0    0    -1  
@@ -1623,7 +1623,7 @@ U 2 1 5A4EDB02
 P 8600 5300
 F 0 "U5" H 8600 5617 50  0000 C CNN
 F 1 "4050" H 8600 5526 50  0000 C CNN
-F 2 "Housings_DIP:SMDIP-14_W7.62mm" H 8600 5300 50  0001 C CNN
+F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 8600 5300 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4050bms.pdf" H 8600 5300 50  0001 C CNN
 	2    8600 5300
 	1    0    0    -1  
@@ -1634,7 +1634,7 @@ U 3 1 5A4FA416
 P 8600 5800
 F 0 "U5" H 8600 6117 50  0000 C CNN
 F 1 "4050" H 8600 6026 50  0000 C CNN
-F 2 "Housings_DIP:SMDIP-14_W7.62mm" H 8600 5800 50  0001 C CNN
+F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 8600 5800 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4050bms.pdf" H 8600 5800 50  0001 C CNN
 	3    8600 5800
 	1    0    0    -1  
@@ -1645,7 +1645,7 @@ U 7 1 5A4FA584
 P 6100 950
 F 0 "U5" V 6467 950 50  0000 C CNN
 F 1 "4050" V 6376 950 50  0000 C CNN
-F 2 "Housings_DIP:SMDIP-14_W7.62mm" H 6100 950 50  0001 C CNN
+F 2 "Housings_SOIC:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 6100 950 50  0001 C CNN
 F 3 "http://www.intersil.com/content/dam/intersil/documents/cd40/cd4050bms.pdf" H 6100 950 50  0001 C CNN
 	7    6100 950 
 	0    -1   -1   0   
