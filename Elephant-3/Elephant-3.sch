@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Elephant-3 Control Board"
-Date "2017-12-13"
+Date "2017-12-14"
 Rev "1"
 Comp ""
 Comment1 ""
@@ -109,7 +109,7 @@ F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-
 	1    0    0    -1  
 $EndComp
 Text GLabel 7250 4850 2    60   Input ~ 0
-+18V
+18V
 $Comp
 L device:C C1
 U 1 1 5A2FD4FF
