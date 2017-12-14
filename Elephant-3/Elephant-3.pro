@@ -1,4 +1,4 @@
-update=Tuesday, December 12, 2017 'PMt' 05:38:56 PM
+update=Wednesday, December 13, 2017 'PMt' 03:00:53 PM
 version=1
 last_client=kicad
 [general]
@@ -34,7 +34,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=/Users/corwin/Desktop/
+PlotDirectoryName=../
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
