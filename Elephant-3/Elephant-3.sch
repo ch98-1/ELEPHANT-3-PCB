@@ -19,7 +19,7 @@ L atmel:AVR-ISP-6 CON1
 U 1 1 5A2FC295
 P 4750 2200
 F 0 "CON1" V 4383 2250 50  0000 C CNN
-F 1 "AVR-ISP-6" V 4474 2250 50  0000 C CNN
+F 1 "ISP" V 4474 2250 50  0000 C CNN
 F 2 "Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm" V 4500 2250 50  0001 C CNN
 F 3 "" H 3475 1650 50  0001 C CNN
 	1    4750 2200
@@ -102,7 +102,7 @@ L atmel:ATMEGA168A-PU U2
 U 1 1 5A2FD10A
 P 2400 3950
 F 0 "U2" H 2450 5317 50  0000 C CNN
-F 1 "ATMEGA328P-PU" H 2450 5226 50  0000 C CNN
+F 1 "ATMEGA328" H 2450 5226 50  0000 C CNN
 F 2 "Housings_DIP:DIP-28_W7.62mm_LongPads" H 2400 3950 50  0001 C CIN
 F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2400 3950 50  0001 C CNN
 	1    2400 3950
@@ -153,7 +153,7 @@ L regul:LM7805_TO220 U1
 U 1 1 5A2FE293
 P 1850 800
 F 0 "U1" H 1850 1042 50  0000 C CNN
-F 1 "LM7805_TO220" H 1850 951 50  0000 C CNN
+F 1 "LM7805" H 1850 951 50  0000 C CNN
 F 2 "TO_SOT_Packages_THT:TO-220-3_Vertical" H 1850 1025 50  0001 C CIN
 F 3 "http://www.fairchildsemi.com/ds/LM/LM7805.pdf" H 1850 750 50  0001 C CNN
 	1    1850 800 
@@ -1530,7 +1530,7 @@ L regul:LT1117-2.85 U3
 U 1 1 5A3261F2
 P 3650 800
 F 0 "U3" H 3650 1042 50  0000 C CNN
-F 1 "LT1117-3.3" H 3650 951 50  0000 C CNN
+F 1 "LT1117" H 3650 951 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-223-3_TabPin2" H 3650 800 50  0001 C CNN
 F 3 "http://cds.linear.com/docs/en/datasheet/1117fd.pdf" H 3650 800 50  0001 C CNN
 	1    3650 800 
@@ -1685,7 +1685,7 @@ L Connector:Micro_SD_Card_Det J10
 U 1 1 5A5BD15D
 P 10000 5500
 F 0 "J10" H 9950 6317 50  0000 C CNN
-F 1 "Micro_SD_Card_Det" H 9950 6226 50  0000 C CNN
+F 1 "Micro_SD_Card" H 9950 6226 50  0000 C CNN
 F 2 "Connectors_Card:Hirose_DM3AT-SF-PEJM5" H 12050 6200 50  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DM3/category/Catalog/doc_file_id/49662/?file_category_id=4&item_id=195&is_series=1" H 10000 5600 50  0001 C CNN
 	1    10000 5500
