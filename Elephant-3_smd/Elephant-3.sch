@@ -97,17 +97,6 @@ F 3 "" H 700 2200 50  0001 C CNN
 	1    700  2200
 	1    0    0    -1  
 $EndComp
-$Comp
-L atmel:ATMEGA168A-PU U2
-U 1 1 5A2FD10A
-P 2400 3950
-F 0 "U2" H 2450 5317 50  0000 C CNN
-F 1 "ATMEGA328" H 2450 5226 50  0000 C CNN
-F 2 "Housings_DIP:DIP-28_W7.62mm_LongPads" H 2400 3950 50  0001 C CIN
-F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2400 3950 50  0001 C CNN
-	1    2400 3950
-	1    0    0    -1  
-$EndComp
 Text GLabel 7250 4850 2    60   Input ~ 0
 18V
 $Comp
@@ -721,7 +710,7 @@ L device:D D11
 U 1 1 5A30808C
 P 7850 2400
 F 0 "D11" V 7896 2321 50  0000 R CNN
-F 1 "C4D2120" V 7805 2321 50  0000 R CNN
+F 1 "D" V 7805 2321 50  0000 R CNN
 F 2 "TO_SOT_Packages_THT:TO-220-2_Vertical" H 7850 2400 50  0001 C CNN
 F 3 "" H 7850 2400 50  0001 C CNN
 	1    7850 2400
@@ -1843,4 +1832,23 @@ Wire Wire Line
 	3000 800  3350 800 
 Wire Wire Line
 	3000 1500 3650 1500
+$Comp
+L atmel:ATMEGA168A-AU U2
+U 1 1 5A46F45C
+P 2400 3950
+F 0 "U2" H 2450 5317 50  0000 C CNN
+F 1 "ATMEGA328" H 2450 5226 50  0000 C CNN
+F 2 "Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm" H 2400 3950 50  0001 C CIN
+F 3 "http://www.atmel.com/images/atmel-8271-8-bit-avr-microcontroller-atmega48a-48pa-88a-88pa-168a-168pa-328-328p_datasheet.pdf" H 2400 3950 50  0001 C CNN
+	1    2400 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1500 2950 1500 2850
+Connection ~ 1500 2850
+Wire Wire Line
+	1500 4950 950  4950
+Wire Wire Line
+	950  4950 950  5050
+Connection ~ 950  5050
 $EndSCHEMATC

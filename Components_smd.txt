@@ -3,19 +3,19 @@ List of possible component that could be used.
 <number needed per board>x <Generic Component>: <digikey link for possible component>
 
 
-Through Hole Version:
+SMD Version:
 
-1x 680k Resistor (350V): https://www.digikey.com/product-detail/en/vishay-bc-components/HVR3700006803FR500/PPCHF680KCT-ND/719960
+1x 680k Resistor (350V): https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-P6WF6803V/P16919CT-ND/4964958
 
-2x 340k Resistor: https://www.digikey.com/product-detail/en/vishay-bc-components/SFR2500003403FR500/PPC340KYCT-ND/597019
+2x 340k Resistor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-8ENF3403V/P340KFCT-ND/89969
 
-3x 10k Resistor (250V): https://www.digikey.com/product-detail/en/vishay-bc-components/SFR2500001002FR500/PPC10.0KYCT-ND/596847
+3x 10k Resistor (200V): https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-8ENF1002V/P10.0KFCT-ND/89822
 
-1x 150ohm Resistor: https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT150R/CF14JT150RCT-ND/1830603
+1x 150ohm Resistor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-6ENF1500V/P150CCT-ND/118719
 
-4x 680ohm Resistor: https://www.digikey.com/product-detail/en/vishay-bc-components/MBA02040C6800FCT00/BC3284CT-ND/6138787
+4x 680ohm Resistor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-2GEJ681X/P680JCT-ND/147055
 
-1x LED: https://www.digikey.com/product-detail/en/broadcom-limited/HLMP-1700-B0002/516-1791-1-ND/1966497
+1x LED: https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LH-R974-LP-1/475-1415-1-ND/1802604
 
 1x 100uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM101B/P10397TB-ND/268482
 
@@ -47,14 +47,14 @@ Through Hole Version:
 
 1x Hex Buffer (74HC4050): https://www.digikey.com/product-detail/en/texas-instruments/CD74HC4050M/296-9214-5-ND/376787
 
-1x atmega328 microcontroller: https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589
+1x atmega328 microcontroller: https://www.digikey.com/product-detail/en/microchip-technology/ATMEGA328PB-AU/ATMEGA328PB-AU-ND/5638812
 
 1x STW21N150K5 MOSFET (1500V): https://www.digikey.com/products/en?keywords=21n150k
 
 1x IRGPS40B120U IGBT (1200V): https://www.digikey.com/product-detail/en/infineon-technologies/IRGPS40B120UPBF/IRGPS40B120UPBF-ND/811373
 
-1x Diode (1200V): https://www.digikey.com/product-detail/en/stmicroelectronics/STPSC2H12D/497-17166-ND/6709871
+1x Diode (1200V): https://www.digikey.com/product-detail/en/stmicroelectronics/STPSC10H12B-TR1/497-17243-1-ND/7164226
 
-1x MC34151 MOSFET driver: https://www.digikey.com/product-detail/en/on-semiconductor/MC34151PG/MC34151PGOS-ND/919081
+1x MC34151 MOSFET driver: https://www.digikey.com/product-detail/en/on-semiconductor/MC34151DG/MC34151DGOS-ND/919080
 
 1x 5uF Capacitor (1300V): https://www.digikey.com/product-detail/en/epcos-tdk/B32774D1505K000/495-3930-ND/1884951

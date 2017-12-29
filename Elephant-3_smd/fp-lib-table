@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HV-WirePad)(type KiCad)(uri "$(KIPRJMOD)/HV-WirePad.pretty")(options "")(descr ""))
+)

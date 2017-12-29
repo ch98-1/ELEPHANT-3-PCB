@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/corwin/Desktop/ELEPHANT-3-PCB/Elephant-3/Elephant-3.sch)
-    (date "Thursday, December 28, 2017 'PMt' 07:15:24 PM")
+    (date "Thursday, December 14, 2017 'PMt' 06:44:04 PM")
     (tool "Eeschema (2017-12-14 revision b47a06e)-master")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -186,7 +186,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5A30F313))
     (comp (ref D11)
-      (value D)
+      (value C4D2120)
       (footprint TO_SOT_Packages_THT:TO-220-2_Vertical)
       (libsource (lib device) (part D))
       (sheetpath (names /) (tstamps /))
