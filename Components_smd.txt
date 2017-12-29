@@ -17,29 +17,29 @@ SMD Version:
 
 1x LED: https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LH-R974-LP-1/475-1415-1-ND/1802604
 
-1x 100uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM101B/P10397TB-ND/268482
+1x 100uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/nichicon/UWX1C101MCL1GB/493-2105-1-ND/590080
 
-1x 10uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/panasonic-electronic-components/ECA-1HM100I/P10425TB-ND/268510
+1x 10uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/nichicon/UWX1V100MCL1GB/493-2117-1-ND/590092
 
-2x 4.7uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/nichicon/UPS1H4R7MDD1TD/493-11322-1-ND/4319740
+2x 4.7uF Electrolytic Capacitor: https://www.digikey.com/product-detail/en/nichicon/UWX1V4R7MCL1GB/493-2116-1-ND/590091
 
-6x 100nF Ceramic Capacitor: https://www.digikey.com/product-detail/en/vishay-bc-components/K104Z15Y5VF5TL2/BC1160CT-ND/286782
+6x 100nF Ceramic Capacitor: https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM188R71H104KA57J/490-8020-1-ND/4380305
 
-4x 10nF Ceramic Capacitor: https://www.digikey.com/product-detail/en/vishay-bc-components/K103K15X7RF5TL2/BC1078CT-ND/286700
+4x 10nF Ceramic Capacitor: https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM155R71H103KA55D/490-4762-1-ND/1641681
 
-2x 22pF Ceramic Capacitor: https://www.digikey.com/product-detail/en/vishay-bc-components/K220J15C0GF5TL2/BC1005CT-ND/286627
+2x 22pF Ceramic Capacitor: https://www.digikey.com/product-detail/en/murata-electronics-north-america/GRM1555C1H220FA01D/490-8589-1-ND/4380485
 
-1x 16Mhz Crystal Oscillator: https://www.digikey.com/product-detail/en/ecs-inc/ECS-160-20-4X-DU/XC1925-ND/2781930
+1x 16Mhz Crystal Oscillator: https://www.digikey.com/product-detail/en/epson/FA-238-16.0000MB-C3/SER3686CT-ND/2403459
 
-1x DIP Header (2x3 for SPI programming): https://www.digikey.com/product-detail/en/harwin-inc/M20-9980346/952-2121-ND/3728085
+1x DIP Header: (2x3 for SPI programming): https://www.digikey.com/product-detail/en/harwin-inc/M20-8760342/952-1922-ND/3727889
 
-8x Schottky Diode: https://www.digikey.com/product-detail/en/vishay-semiconductor-diodes-division/SB1H100-E3-73/SB1H100-E3-73GICT-ND/3711858
+8x Schottky Diode: https://www.digikey.com/product-detail/en/diodes-incorporated/B130-13-F/B130-FDICT-ND/815318
 
-1x Diode: https://www.digikey.com/product-detail/en/vishay-semiconductor-diodes-division/SB1H100-E3-73/SB1H100-E3-73GICT-ND/3711858
+1x Diode: https://www.digikey.com/product-detail/en/diodes-incorporated/B130-13-F/B130-FDICT-ND/815318
 
-1x Switch: https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536
+1x Switch: https://www.digikey.com/product-detail/en/c-k/PTS645SH50SMTR92-LFS/CKN9085CT-ND/1146817
 
-1x 5V voltage regulator (LM7805 in UW ee store): https://www.digikey.com/product-detail/en/on-semiconductor/LM7805ACT/LM7805ACT-ND/1626089
+1x 5V voltage regulator : https://www.digikey.com/product-detail/en/stmicroelectronics/L7805CDT-TR/497-7255-2-ND/1038234
 
 1x 3.3V voltage regulator: https://www.digikey.com/product-detail/en/texas-instruments/LM1117IMPX-3.3-NOPB/LM1117IMPX-3.3-NOPBCT-ND/3440160
 
@@ -53,7 +53,7 @@ SMD Version:
 
 1x IRGPS40B120U IGBT (1200V): https://www.digikey.com/product-detail/en/infineon-technologies/IRGPS40B120UPBF/IRGPS40B120UPBF-ND/811373
 
-1x Diode (1200V): https://www.digikey.com/product-detail/en/stmicroelectronics/STPSC10H12B-TR1/497-17243-1-ND/7164226
+1x Diode (1200V): https://www.digikey.com/product-detail/en/stmicroelectronics/STPSC2H12D/497-17166-ND/6709871
 
 1x MC34151 MOSFET driver: https://www.digikey.com/product-detail/en/on-semiconductor/MC34151DG/MC34151DGOS-ND/919080
 
