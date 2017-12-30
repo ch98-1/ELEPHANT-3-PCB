@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(2017-12-14 revision b47a06e)-master*
-G04 #@! TF.CreationDate,2017-12-29T23:23:29-08:00*
+G04 #@! TF.CreationDate,2017-12-30T01:35:11-08:00*
 G04 #@! TF.ProjectId,Elephant-3,456C657068616E742D332E6B69636164,1*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L2,Bot,Signal*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (2017-12-14 revision b47a06e)-master) date Friday, December 29, 2017 'PMt' 11:23:29 PM*
+G04 Created by KiCad (PCBNEW (2017-12-14 revision b47a06e)-master) date Saturday, December 30, 2017 'AMt' 01:35:11 AM*
 %MOMM*%
 %LPD*%
 G01*
@@ -84,6 +84,12 @@ D17*
 X189600000Y-107315000D03*
 X195050000Y-107315000D03*
 D18*
+X159004000Y-102108000D03*
+X145415000Y-81788000D03*
+X132842000Y-88900000D03*
+X132842000Y-102362000D03*
+X138684000Y-109892000D03*
+X144399000Y-107823000D03*
 X179832000Y-112649000D03*
 X181737000Y-112014000D03*
 X178689000Y-118872000D03*

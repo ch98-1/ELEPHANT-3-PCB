@@ -5,7 +5,7 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Elephant-3 Control Board"
+Title "Elephant-3 Control Board SMD"
 Date "2017-12-14"
 Rev "1"
 Comp ""
