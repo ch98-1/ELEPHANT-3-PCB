@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/corwin/Desktop/ELEPHANT-3-PCB/Elephant-3_smd/Elephant-3.sch)
-    (date "Friday, December 29, 2017 'AMt' 02:31:53 AM")
+    (date "Friday, December 29, 2017 'PMt' 06:28:54 PM")
     (tool "Eeschema (2017-12-14 revision b47a06e)-master")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -35,7 +35,7 @@
       (tstamp 5A2FDE72))
     (comp (ref U1)
       (value 7805)
-      (footprint TO_SOT_Packages_SMD:TO-252-3_TabPin2)
+      (footprint TO_SOT_Packages_SMD:TO-252-2)
       (datasheet http://www.fairchildsemi.com/ds/LM/LM7805.pdf)
       (libsource (lib regul) (part LM7805_TO220))
       (sheetpath (names /) (tstamps /))
