@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 19)
+    (drawings 20)
     (tracks 781)
     (zones 0)
     (modules 62)
@@ -2956,6 +2956,9 @@
     )
   )
 
+  (gr_text "Designed by Corwin Hansen   UW APL  Ver. 1.0\n" (at 157.48 85.09) (layer B.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
+  )
   (gr_line (start 118.745 127) (end 198.12 127) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_line (start 198.12 68.58) (end 118.745 68.58) (angle 90) (layer Edge.Cuts) (width 0.15))
   (gr_text - (at 197.104 126.365 180) (layer F.SilkS) (tstamp 5A33917F)
