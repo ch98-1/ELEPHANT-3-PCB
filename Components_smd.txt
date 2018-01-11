@@ -59,6 +59,6 @@ SMD Version:
 
 1x 5uF Capacitor (1300V): https://www.digikey.com/product-detail/en/epcos-tdk/B32774D1505K000/495-3930-ND/1884951
 
-1x RF shield frame (BMI-S-202-F): https://www.digikey.com/product-detail/en/laird-technologies-emi/BMI-S-202-F/903-1051-1-ND/2182405
+1x RF shield frame (BMI-S-203-F): https://www.digikey.com/product-detail/en/laird-technologies-emi/BMI-S-203-F/903-1052-1-ND/2182406
 
-1x RF shield case (BMI-S-202-C): https://www.digikey.com/product-detail/en/laird-technologies-emi/BMI-S-202-C/903-1014-ND/2175915
+1x RF shield case (BMI-S-203 -C): https://www.digikey.com/product-detail/en/laird-technologies-emi/BMI-S-203-C/903-1015-ND/2175916
